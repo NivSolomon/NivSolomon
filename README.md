@@ -5,9 +5,9 @@
 ### 📚 About Me
 
 I have a solid foundation in:
+- Full Stack development
 - Object-Oriented Programming
-- Algorithms
-- Data Structures
+- MERN Stack ![MERN](https://img.shields.io/badge/-mern-black?style=flat-square&logo=mern)
 
 I honed these skills during my studies in Software Development at **Sela College**.
 

@@ -7,7 +7,7 @@
 I have a solid foundation in:
 - Full Stack development
 - Object-Oriented Programming
-- MERN Stack ![MERN](https://img.shields.io/badge/-MERN-black?style=flat-square&logo=mongodb&logoColor=green)
+- MERN Stack
 
 I honed these skills during my studies in Software Development at **Sela College**.
 

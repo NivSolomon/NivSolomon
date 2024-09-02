@@ -38,7 +38,7 @@ I honed these skills during my studies in Software Development at **Sela College
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/niv-solomon/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/niv-solomon/](https://www.linkedin.com/in/niv-solomon%F0%9F%8E%97%EF%B8%8F-a6719b275/))
 [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:nivsolomon3@gmail.com)
 
 <!---
